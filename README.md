@@ -1,4 +1,4 @@
 # CovidTracker
 
 
-## A Simple Covid tracker App
+A Simple Covid tracker App
